@@ -1,0 +1,2 @@
+{:paths ["src/clj" "src/java"]
+ :deps {riddley {:mvn/version "0.1.12"}}}
